@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909340857141",
+    "firebase_url": "https://themobiledoctor7.firebaseio.com",
+    "project_id": "themobiledoctor7",
+    "storage_bucket": "themobiledoctor7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909340857141:android:e50c6d7ae2aa6c05cfb27c",
+        "android_client_info": {
+          "package_name": "com.example.themobiledoctor7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909340857141-lb638vjpbbu8em449qnmok7eocolni7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.themobiledoctor7",
+            "certificate_hash": "4b2e5cb0c60e1b21c144d9e74c427757c9a60de9"
+          }
+        },
+        {
+          "client_id": "909340857141-3ja1a740t6qniue3odgbmf6fq2gt3fbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPHlVZqwMRiYYnn7gwWdo82UgzZKK2-cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909340857141-3ja1a740t6qniue3odgbmf6fq2gt3fbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
